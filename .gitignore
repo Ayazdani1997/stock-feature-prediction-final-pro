@@ -3,5 +3,4 @@ data.zip
 venv
 .ipynb_checkpoints
 .idea
-
-
+*.h5
